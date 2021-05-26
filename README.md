@@ -8,8 +8,8 @@ The game ends when a player removes the last match, this player loses the game.
 * You have to at least remove one stick on the same column.
 
 # Usage
-make re
-./matchstick (numbers of columns) + (numbers of sticks players can remove)
+* make re
+* ./matchstick (numbers of columns) + (numbers of sticks players can remove)
 
 # Project
 
